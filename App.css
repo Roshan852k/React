@@ -1,0 +1,18 @@
+/* Example styles */
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.login-card {
+  width: 400px;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.btn-primary:hover {
+  background: #2575fc;
+}
